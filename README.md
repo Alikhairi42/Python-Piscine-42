@@ -151,7 +151,6 @@ python3 -m pytest
 ## 👤 Author
 
 - **Login:** `a-khairi`
-- **42 Profile:** [intra.42.fr/users/your_login](https://profile.intra.42.fr/users/your_login)
 - **GitHub:** [@your_github](https://github.comAlikhairi42)
 
 ---
