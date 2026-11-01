@@ -148,13 +148,6 @@ python3 -m pytest
 
 ---
 
-## 👤 Author
-
-- **Login:** `a-khairi`
-- **GitHub:** [@your_github](https://github.comAlikhairi42)
-
----
-
 ## 📝 License
 
 This project is part of the 42 curriculum and is provided for educational purposes.
